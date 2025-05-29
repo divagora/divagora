@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Civil Engineer · PhD Student</strong><br>
-  Exploring compound flood events and multivariate statistical modeling.
+  Exploring compound events and multivariate statistical modeling.
 </p>
 
 ---
