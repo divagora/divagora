@@ -1,16 +1,24 @@
 ## Hi there 👋
 
-<!--
-**divagora/divagora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Civil Engineer · PhD Student  
+Working on compound events and multivariate statistical modeling.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+📫 dgr258@alumnos.unican.es &nbsp;&nbsp;|&nbsp;&nbsp;
+🌐 [LinkedIn](https://www.linkedin.com/in/dvgrave/) &nbsp;&nbsp;|&nbsp;&nbsp;
+🔍 GitHub: <a href="https://github.com/divagora">@divagora</a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=divagora&show_icons=true&theme=calm" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divagora&layout=compact&theme=calm" alt="Top Languages" />
+</p>
