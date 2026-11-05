@@ -10,7 +10,7 @@
 <p align="center">
   📧 <a href="mailto:dgr258@alumnos.unican.es">dgr258@alumnos.unican.es</a> &nbsp;&nbsp;|&nbsp;&nbsp;
   🔗 <a href="https://www.linkedin.com/in/dvgrave/">LinkedIn</a> &nbsp;&nbsp;|&nbsp;&nbsp;
-  🧪 <a href="https://github.com/divagora">@divagora</a>
+  🧪 <a href="https://divagora.github.io">@divagora</a>
 </p>
 
 ---
